@@ -1,0 +1,41 @@
+# 虚拟环境相关目录和文件 - 这些是虚拟环境的核心部分，不应该上传
+Lib/
+Scripts/
+include/
+pyvenv.cfg
+CACHEDIR.TAG
+
+# Python编译文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 日志文件
+*.log
+
+# 配置文件 - 包含本地配置，不应该上传
+config.ini
+
+# 临时文件
+temp_test_undo/
+*.tmp
+*.temp
+
+# IDE相关文件 - 这些是本地开发环境的配置
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Windows相关文件
+Thumbs.db
+
+# 其他不应该上传的文件
+dummy
+clear_filters_called.txt
+
+# 测试生成的文件
+*_test_output.txt
+
+# 确保只包含项目相关文件
+# 如果你需要添加更多要忽略的文件或目录，请在此处添加
