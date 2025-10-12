@@ -183,7 +183,7 @@ def undo_last_operation():
 ### 安装步骤
 1. 克隆项目仓库
    ```bash
-   git clone https://github.com/StellarTrail/Smart_Organizer.git
+   git clone https://github.com/Chen2871/Smart_Organizer.git
    cd Smart_Organizer
    ```
 
