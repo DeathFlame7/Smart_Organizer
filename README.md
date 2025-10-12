@@ -194,7 +194,8 @@ def undo_last_operation():
 
 3. 运行应用程序
    ```bash
-   python start_app.py
+   python start_app.py  # 或
+   python main.py
    ```
 
 ## 使用说明
